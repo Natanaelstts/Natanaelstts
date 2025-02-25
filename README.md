@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Aspirante a Cientista de Dados e Desenvolvedor.
+- 💻 Aspirante a Analista de Dados e Desenvolvedor.
 - 🌱 Aprendendo constantemente novas linguagens e tecnologias.
 
 ---
