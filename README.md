@@ -48,4 +48,4 @@
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/natanaelstts/
-- E-mail: natanelstts@gmail.com
+- E-mail: natanaelstts@gmail.com
