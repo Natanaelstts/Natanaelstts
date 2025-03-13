@@ -1,8 +1,7 @@
 # Olá, eu sou Natanael! 👋
 
 ## 👩🏻‍💻 Sobre Mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Aspirante a Analista de Dados e Desenvolvedor.
+- 🎓 Analista de dados | Desenvolvedor Front-end.
 - 🌱 Aprendendo constantemente novas linguagens e tecnologias.
 
 ---
